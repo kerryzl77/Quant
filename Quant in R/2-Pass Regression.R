@@ -3,8 +3,6 @@ library(quantmod)
 library("readxl")
 library(zoo)
 
-
-setwd('/Users/liuzikai/Desktop/4539')
 Book10 <- read_excel("Book10.xlsx")
 head(Book10)
 

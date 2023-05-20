@@ -12,6 +12,6 @@ Welcome to the `Quant`! This folder contains various files related to market ana
 
 - `candlestick chart.R`: This file includes code for creating candlestick charts, a popular visualization technique for analyzing price movements in financial markets.
 
-- `Quiz5`: The `Quiz5` file contains code for calculating the Value at Risk (VaR) of a portfolio based on the Spanish index IBEX. The code reads the `ibex202021.csv` file, which contains the closing prices of the IBEX index for all trading days in the years 2020 and 2021. It then calculates the continuous returns of the index and uses this information to estimate the VaR of the portfolio.
+- `Var_GARCH`: The file contains code for calculating the Value at Risk (VaR) of a portfolio based on the Spanish index IBEX. The code reads the `ibex202021.csv` file, which contains the closing prices of the IBEX index for all trading days in the years 2020 and 2021. It then calculates the continuous returns of the index and uses this information to estimate the VaR of the portfolio.
 
 
